@@ -1,0 +1,24 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.html",
+  "scripts": {
+	"start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gohminghui88/gitTest.git"
+  },
+  "author": "Eric M. H. Goh",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/gohminghui88/gitTest/issues"
+  },
+  "homepage": "https://github.com/gohminghui88/gitTest#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
